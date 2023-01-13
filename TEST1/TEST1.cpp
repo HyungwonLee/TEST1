@@ -1,0 +1,1 @@
+#include <librealsense2/rs.hpp> // Include Intel RealSense Cross Platform API
